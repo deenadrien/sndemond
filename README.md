@@ -1,2 +1,4 @@
 # sndemond
-Artistic website
+
+Website of Nicolas DECLERCQ 
+French artist
