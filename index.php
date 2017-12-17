@@ -6,8 +6,8 @@
  * Time: 17:08
  */
 
-include_once 'head/head.html';
-include_once 'head/navbar.html';
+include_once 'head.php';
+include_once 'navbar.php';
 
 ?>
 
